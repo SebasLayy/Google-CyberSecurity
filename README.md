@@ -6,14 +6,14 @@ Este repositorio contiene mis apuntes, ejercicios, proyectos y recursos relacion
 
 El certificado se compone de 8 cursos. En este repositorio iré organizando todo por curso:
 
-1. ✅ [Fundamentos de la ciberseguridad](./01-fundamentos/)
-2. 🚧 [Herramientas y sistemas operativos](./02-herramientas-sistemas/)
-3. ⏳ [Bases de datos y redes](./03-bases-datos-redes/)
-4. ⏳ [Gestión de incidentes, amenazas y vulnerabilidades](./04-gestion-incidentes/)
-5. ⏳ [Seguridad de TI: defensa en profundidad](./05-defensa-profundidad/)
-6. ⏳ [Marcos de seguridad y controles](./06-marcos-controles/)
-7. ⏳ [Automatización con Python](./07-python/)
-8. ⏳ [Proyecto final de ciberseguridad](./08-proyecto-final/)
+1. ✅ [Fundamentos de la ciberseguridad]
+2. 🚧 [Herramientas y sistemas operativos]
+3. ⏳ [Bases de datos y redes]
+4. ⏳ [Gestión de incidentes, amenazas y vulnerabilidades]
+5. ⏳ [Seguridad de TI: defensa en profundidad]
+6. ⏳ [Marcos de seguridad y controles]
+7. ⏳ [Automatización con Python]
+8. ⏳ [Proyecto final de ciberseguridad]
 
 > ✅ Completado · 🚧 En progreso · ⏳ Pendiente
 
