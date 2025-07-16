@@ -6,7 +6,7 @@ Este repositorio contiene mis apuntes, ejercicios, proyectos y recursos relacion
 
 El certificado se compone de 8 cursos. En este repositorio iré organizando todo por curso:
 
-1. ✅ [Fundamentos de la ciberseguridad]
+1. ✅ [Fundamentos de la ciberseguridad](./01-fundamentos/)
 2. 🚧 [Herramientas y sistemas operativos]
 3. ⏳ [Bases de datos y redes]
 4. ⏳ [Gestión de incidentes, amenazas y vulnerabilidades]
